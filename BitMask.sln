@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E6D39060-2781-DF82-772D-21141488E54B}") = "BitMask", "Assembly-CSharp-firstpass.csproj", "{4A71A95A-234B-9678-2DA2-F837BA1540A5}"
+EndProject
+Project("{E6D39060-2781-DF82-772D-21141488E54B}") = "BitMask", "Assembly-CSharp.csproj", "{6797F292-CD7E-5690-A966-CA77AB398FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A71A95A-234B-9678-2DA2-F837BA1540A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A71A95A-234B-9678-2DA2-F837BA1540A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A71A95A-234B-9678-2DA2-F837BA1540A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A71A95A-234B-9678-2DA2-F837BA1540A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6797F292-CD7E-5690-A966-CA77AB398FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6797F292-CD7E-5690-A966-CA77AB398FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6797F292-CD7E-5690-A966-CA77AB398FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6797F292-CD7E-5690-A966-CA77AB398FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
